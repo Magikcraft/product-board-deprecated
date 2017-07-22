@@ -2,8 +2,13 @@
 
 As a user I can ...
 
+# Background
+
+_What happens now, what's been tried, why is this useful, etc..._
+
 # Feature Description
 
+_Detailed description of the feature, including feature list._
 
 # Out of Scope
 
@@ -20,4 +25,4 @@ Here is the process for testing this feature:
 
 # End-User Documentation
 
-[Docs that can be copypasta to the user docs]
+_[Docs that can be copypasta to the user docs]_
