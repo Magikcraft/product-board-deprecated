@@ -1,4 +1,4 @@
 # product-board
-The Magikcraft Product Development Board
+The Magikcraft Public Product Development Board
 
 See issues tab: https://github.com/Magikcraft/product-board/issues
